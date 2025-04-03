@@ -10,5 +10,5 @@ This is a **Skin Cancer Classification App** built using **Streamlit** and a **C
 ## 📥 Installation & Usage:
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone https://github.com/aarayann/skin_cancer_detection_cnn
+   cd skin_cancer_detection_cnn
