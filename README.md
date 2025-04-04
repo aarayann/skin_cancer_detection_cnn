@@ -12,3 +12,5 @@ This is a **Skin Cancer Classification App** built using **Streamlit** and a **C
    ```bash
    git clone https://github.com/aarayann/skin_cancer_detection_cnn
    cd skin_cancer_detection_cnn
+
+Dataset used for testing and training of the model - https://www.kaggle.com/datasets/bhaveshmittal/melanoma-cancer-dataset
