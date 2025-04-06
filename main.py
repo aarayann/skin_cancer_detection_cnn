@@ -6,7 +6,7 @@ from tensorflow.keras.preprocessing import image
 from tensorflow.keras.models import load_model
 
 # Hugging Face Model URL (Direct Link)
-MODEL_URL = "https://huggingface.co/aarayann/skin_cancer_cnn.h5/resolve/main/skin_cancer_cnn.h5"
+MODEL_URL = "https://huggingface.co/aarayann/skin_cancer_cnn.h5/blob/main/skin_cancer_cnn.h5"
 MODEL_PATH = "skin_cancer_cnn.h5"
 
 # Function to download the model if not present
