@@ -4,7 +4,6 @@ import os
 import requests
 from tensorflow.keras.preprocessing import image
 from tensorflow.keras.models import load_model
-from tqdm import tqdm
 
 # Hugging Face Model URL (Direct Download Link)
 MODEL_URL = "https://huggingface.co/aarayann/skin_cancer_cnn.h5/resolve/main/skin_cancer_cnn.h5"
