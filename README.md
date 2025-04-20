@@ -14,4 +14,3 @@ This is a **Skin Cancer Classification App** built using **Streamlit** and a **C
    cd skin_cancer_detection_cnn
 
 Dataset used for testing and training of the model - https://www.kaggle.com/datasets/bhaveshmittal/melanoma-cancer-dataset
-Deployed Project - https://skincancerdetectioncnn.streamlit.app/
